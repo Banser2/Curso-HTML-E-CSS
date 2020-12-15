@@ -1,0 +1,9 @@
+1- o que são seletores
+2- conceitos basicos
+3- os principais seletores
+
+
+ID X CLASSE
+
+.CLASSE
+#ID UMA VEZ NA PAGINAS
